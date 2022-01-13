@@ -1,5 +1,6 @@
 {
-  "presale-whitelist": [
+  "presale-whitelist": 
+[
   {
     "address": "0xF221E1E3145501f2E4DeCFF3804746b7F5C8F7Bb",
     "amount": 5
@@ -711,5 +712,26 @@
   {
     "address": "0x60729B5337BE3950ec2F6838FdD8cc75F234cd1F",
     "amount": 5
-  }]
+  },
+  {
+    "address": "0x709EDe57c926f146c3430661d3ec42a736954414",
+    "amount": 5
+  },
+  {
+    "address": "0x7f67F35a25eD0e2C72D54dCe89FDB6ADF415284B",
+    "amount": 5
+  },
+  {
+    "address": "0x515c50B50607Afc14699f7B2F3905c7b48308084",
+    "amount": 5
+  },
+  {
+    "address": "0x7eA6607175Cd89879664DBd2D7323a8C7d8665f0",
+    "amount": 5
+  },
+  {
+    "address": "0x2E2E6492439851BB8C75A002a6A4bb859951FDC8",
+    "amount": 5
+  }
+]
 }
